@@ -1,3 +1,5 @@
+##AUTO-CLICKER FOR BLUM
+
 from pyautogui import *
 import pyautogui
 import time as t
